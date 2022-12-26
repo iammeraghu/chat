@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">chat</string>
+    <string name="hyperlink"><a href="https://www.github.com/iammeraghu">About ME</a></string>
+</resources>
